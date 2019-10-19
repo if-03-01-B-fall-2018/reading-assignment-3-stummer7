@@ -10,8 +10,11 @@ body{
     background-color: rgb(white);
     margin: 0; 
 }
-li .headline{
-font-weight: bold;
+#content{
+    font-weight: normal;
+}
+li{
+    font-weight: bold;
 }
 
 ul{
